@@ -1,0 +1,5 @@
+torch
+sentencepiece
+numpy
+tqdm
+sacremoses
