@@ -1,6 +1,0 @@
-torch>=1.10
-sentencepiece
-numpy
-tqdm
-sacremoses
-sentence-transformers==2.2.2
